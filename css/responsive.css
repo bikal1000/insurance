@@ -1,0 +1,371 @@
+/*------------------------------------------------------------------------------*/
+/*                    width : 1200px
+/*------------------------------------------------------------------------------*/
+
+@media (min-width: 1200px) {
+
+    .container.mobile-heading{
+        padding: 0 5px;
+    }
+.Boxed-i {
+width: 1200px;
+}
+
+}
+
+/*------------------------------------------------------------------------------*/
+/*                    width : 991px
+/*------------------------------------------------------------------------------*/
+@media (min-width: 991px) and (max-width: 1200px) {
+
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    Width : 767px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    margin-bottom: 30px;
+}
+.col-xs-1:last-child, .col-sm-1:last-child, .col-md-1:last-child, .col-lg-1:last-child, .col-xs-2:last-child, .col-sm-2:last-child, .col-md-2:last-child, .col-lg-2:last-child, .col-xs-3:last-child, .col-sm-3:last-child, .col-md-3:last-child, .col-lg-3:last-child, .col-xs-4:last-child, .col-sm-4:last-child, .col-md-4:last-child, .col-lg-4:last-child, .col-xs-5:last-child, .col-sm-5:last-child, .col-md-5:last-child, .col-lg-5:last-child, .col-xs-6:last-child, .col-sm-6:last-child, .col-md-6:last-child, .col-lg-6:last-child, .col-xs-7:last-child, .col-sm-7:last-child, .col-md-7:last-child, .col-lg-7:last-child, .col-xs-8:last-child, .col-sm-8:last-child, .col-md-8:last-child, .col-lg-8:last-child, .col-xs-9:last-child, .col-sm-9:last-child, .col-md-9:last-child, .col-lg-9:last-child, .col-xs-10:last-child, .col-sm-10:last-child, .col-md-10:last-child, .col-lg-10:last-child, .col-xs-11:last-child, .col-sm-11:last-child, .col-md-11:last-child, .col-lg-11:last-child, .col-xs-12:last-child, .col-sm-12:last-child, .col-md-12:last-child, .col-lg-12:last-child {
+    margin-bottom: 0px;
+}
+
+.latestnews .item-post .info-post h5 {
+    min-height: 74px;
+}
+
+.social-ul{
+    display: none !important;
+}
+
+li.sidebar-menu {
+    padding-right: 15px;
+    opacity: 0 !important;
+    width: 0;
+}
+
+.none-padding {
+    padding: 0 !important;
+    margin: 0;
+}
+
+.welcome-Block {
+    margin-bottom: 0 !important;
+}
+
+.tap-inner img {
+    float: none !important;
+}
+
+.tap-inner p {
+    float: right;
+    width: 47%;
+}
+
+.container-header {
+    width: 100%;
+    padding: 0px 15px;
+}
+
+.block-services p {
+    padding: 0px 25px;
+}
+
+.text-accordions {
+    float: right;
+    width: 47%;
+    display: inline-block;
+}
+
+.accordions {
+    display: inline-block;
+    width: 100%;
+}
+
+.text-accordions p {
+    width: 100%;
+}
+
+.clients-row a.item-client {
+    width: 30%;
+    text-align: center;
+}
+
+.pagination.col-md-12 {
+    width: 100%;
+}
+
+.section-404 p, .title-description p  {
+    padding: 0px 30px !important;
+}
+
+.accordions-style2 .tap-inner p {
+    float: none;
+    width: 100%;
+}
+
+.section-content {
+    position: relative;
+}
+
+.accordions-style2 h4.tap-title span {
+    font-size: 16px;
+    position: absolute;
+    top: 22px;
+}
+
+h4.tap-title a {
+    line-height: 22px !important;
+	margin-left: 27px !important;
+}
+
+.sort-by-select {
+    text-align: left !important;
+}
+
+.shop-cart-header {
+    top: 155px !important;
+    width: 355px !important;
+    right: 5px !important;
+}
+
+h4.tap-title a {
+    width: 96% !important;
+}
+
+.Icons-Search a {
+    padding: 38px 15px !important;
+}
+
+.Icons-Search a {
+    padding: 38px 15px !important;
+}
+
+    .our-team-area-v3 .single-member {
+        width: 50%;
+    }
+
+
+}
+
+/*--------------------------------------
+	Our Team Area
+----------------------------------------*/
+
+@media (max-width: 767px){
+    .our-team-area-v3 .single-member {
+        width: 100%;
+    }
+    .title-section p {
+        font-size: 14px;
+    }
+    .title-section h3 {
+        font-size: 18px;
+    }
+
+}
+
+
+
+/*------------------------------------------------------------------------------*/
+/*                    width : 452px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    margin-bottom: 30px;
+}
+.col-xs-1:last-child, .col-sm-1:last-child, .col-md-1:last-child, .col-lg-1:last-child, .col-xs-2:last-child, .col-sm-2:last-child, .col-md-2:last-child, .col-lg-2:last-child, .col-xs-3:last-child, .col-sm-3:last-child, .col-md-3:last-child, .col-lg-3:last-child, .col-xs-4:last-child, .col-sm-4:last-child, .col-md-4:last-child, .col-lg-4:last-child, .col-xs-5:last-child, .col-sm-5:last-child, .col-md-5:last-child, .col-lg-5:last-child, .col-xs-6:last-child, .col-sm-6:last-child, .col-md-6:last-child, .col-lg-6:last-child, .col-xs-7:last-child, .col-sm-7:last-child, .col-md-7:last-child, .col-lg-7:last-child, .col-xs-8:last-child, .col-sm-8:last-child, .col-md-8:last-child, .col-lg-8:last-child, .col-xs-9:last-child, .col-sm-9:last-child, .col-md-9:last-child, .col-lg-9:last-child, .col-xs-10:last-child, .col-sm-10:last-child, .col-md-10:last-child, .col-lg-10:last-child, .col-xs-11:last-child, .col-sm-11:last-child, .col-md-11:last-child, .col-lg-11:last-child, .col-xs-12:last-child, .col-sm-12:last-child, .col-md-12:last-child, .col-lg-12:last-child {
+    margin-bottom: 0px;
+}
+
+.social-ul{
+    display: none !important;
+}
+
+.header-style5 .social-ul {
+    display: block !important;
+}
+
+li.sidebar-menu {
+    padding-right: 15px;
+    opacity: 0 !important;
+    width: 0;
+}
+
+.none-padding {
+    padding: 0 !important;
+    margin: 0;
+}
+
+.clients-row a.item-client {
+    width: 28%;
+    text-align: center;
+}
+
+.services-block-img {
+    height: 280px;
+}
+
+.welcome-Block {
+    margin-bottom: 0 !important;
+}
+
+.home-call-to-action {
+    margin-top: 30px !important;
+}
+
+.latestnews .item-post img {
+    width: 100%;
+}
+
+.container-header {
+    width: 100%;
+    padding: 0px 15px;
+}
+
+.section-404 p, .title-description p  {
+    padding: 0px 30px !important;
+}
+
+.title-text h2 {
+    line-height: 45px !important;
+}
+
+.accordions-style2 .tap-inner p {
+    float: none;
+    width: 100%;
+}
+
+.sort-by-select {
+	text-align: left !important;	
+}
+
+.shop-cart-header {
+    top: 155px !important;
+    width: 355px !important;
+    right: 5px !important;
+}
+
+.contact-text ul li.header-link {
+    display: block !important;
+}
+
+.contact-text ul li {
+    display: none !important;
+}
+
+.Icons-Search a {
+    padding: 38px 15px !important;
+}
+
+
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 250px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    margin-bottom: 30px;
+}
+.col-xs-1:last-child, .col-sm-1:last-child, .col-md-1:last-child, .col-lg-1:last-child, .col-xs-2:last-child, .col-sm-2:last-child, .col-md-2:last-child, .col-lg-2:last-child, .col-xs-3:last-child, .col-sm-3:last-child, .col-md-3:last-child, .col-lg-3:last-child, .col-xs-4:last-child, .col-sm-4:last-child, .col-md-4:last-child, .col-lg-4:last-child, .col-xs-5:last-child, .col-sm-5:last-child, .col-md-5:last-child, .col-lg-5:last-child, .col-xs-6:last-child, .col-sm-6:last-child, .col-md-6:last-child, .col-lg-6:last-child, .col-xs-7:last-child, .col-sm-7:last-child, .col-md-7:last-child, .col-lg-7:last-child, .col-xs-8:last-child, .col-sm-8:last-child, .col-md-8:last-child, .col-lg-8:last-child, .col-xs-9:last-child, .col-sm-9:last-child, .col-md-9:last-child, .col-lg-9:last-child, .col-xs-10:last-child, .col-sm-10:last-child, .col-md-10:last-child, .col-lg-10:last-child, .col-xs-11:last-child, .col-sm-11:last-child, .col-md-11:last-child, .col-lg-11:last-child, .col-xs-12:last-child, .col-sm-12:last-child, .col-md-12:last-child, .col-lg-12:last-child {
+    margin-bottom: 0px;
+}
+
+.social-ul{
+    display: none !important;
+}
+
+li.sidebar-menu {
+    padding-right: 15px;
+    opacity: 0 !important;
+    width: 0;
+}
+
+.none-padding {
+    padding: 0 !important;
+    margin: 0;
+}
+
+.description-welcome p {
+    width: 100%;
+}
+
+.clients-row a.item-client {
+    width: 100%;
+    text-align: center;
+}
+
+.latestnews .item-post img {
+    width: 100%;
+}
+
+.home-call-to-action a {
+    padding: 8px 20px !important;
+}
+
+.welcome-Block {
+    margin-bottom: 0 !important;
+}
+
+.home-call-to-action {
+    margin-top: 30px !important;
+}
+
+.container-header {
+    width: 100%;
+    padding: 0px 15px;
+}
+
+.section-404 p, .title-description p  {
+    padding: 0px 30px !important;
+}
+
+.section-404 h1 {
+    font-size: 143px!important;
+}
+
+.contact-text ul li.header-link {
+    display: block !important;
+}
+
+.contact-text ul li {
+    display: none !important;
+}
+
+.title-text h2 {
+    line-height: 45px !important;
+}
+
+.accordions-style2 .tap-inner p {
+    float: none;
+    width: 100%;
+}
+
+.sort-by-select {
+	text-align: left !important;	
+}
+
+.shop-cart-header {
+    top: 155px !important;
+    width: 355px !important;
+    right: 5px !important;
+}
+
+.Icons-Search a {
+    padding: 38px 15px !important;
+}
+
+
+}
+
+/*------------------------------------------------------------------------------*/
+/*                    width : 320px
+/*------------------------------------------------------------------------------*/
+@media only screen and (max-width: 350px) {
+
+
+}
